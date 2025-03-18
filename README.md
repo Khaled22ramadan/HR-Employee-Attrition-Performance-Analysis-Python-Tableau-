@@ -13,11 +13,15 @@ This project analyzes IBM HR employee attrition and performance data using Pytho
 * Married employees tend to stay longer, likely due to stability and financial responsibilities.
 
 # 🔧 Technologies Used:
+
 ✅ Python (Pandas, NumPy, Matplotlib, Seaborn) – for data processing & analysis
+
 ✅ Tableau – for interactive dashboards & data visualization
 
 # 📂 Project Files:
+
 🔗 Python Notebook (Data Cleaning & EDA): https://www.kaggle.com/code/khaledramadanali22/nti-ibm-hr-analysis
+
 🔗 Tableau Dashboard: file in the project folder 
 
 We welcome any feedback! 🚀
