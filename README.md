@@ -25,3 +25,5 @@ This project analyzes IBM HR employee attrition and performance data using Pytho
 🔗 Tableau Dashboard: file in the project folder 
 
 We welcome any feedback! 🚀
+
+* my linkedin :  https://www.linkedin.com/in/khaled-ramadan-143610232/
