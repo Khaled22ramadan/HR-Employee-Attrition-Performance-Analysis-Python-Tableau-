@@ -17,11 +17,12 @@ This project analyzes IBM HR employee attrition and performance data using Pytho
 ✅ Python (Pandas, NumPy, Matplotlib, Seaborn) – for data processing & analysis
 
 ✅ Tableau – for interactive dashboards & data visualization
-![Screenshot_3](https://github.com/user-attachments/assets/fe1d8e99-81dc-4325-8c74-d734455136fb)
-![Screenshot_2](https://github.com/user-attachments/assets/4e770008-c04b-4d06-9fd0-c3c5cb9c54b5)
-![Screenshot_1](https://github.com/user-attachments/assets/7739f330-b1d3-44f8-bba6-3b84a0dd86c7)
-![overview](https://github.com/user-attachments/assets/4cbd50ad-b11e-4199-9f34-da8f8a9a56cf)
-![ov](https://github.com/user-attachments/assets/34a819ec-e966-418d-8c47-d46c420252dd)
+![Screenshot_3](https://github.com/user-attachments/assets/9b2e4301-a730-4db9-98aa-3282add4f755)
+![Screenshot_2](https://github.com/user-attachments/assets/7be938e8-7cdc-4c54-a4a5-738bbac0e0b6)
+![Screenshot_1](https://github.com/user-attachments/assets/50e2dda9-3c58-4d24-8d9c-eaae42ce4183)
+![overview](https://github.com/user-attachments/assets/a6b75e6a-d345-486a-9e1a-17c486c8587f)
+![ov](https://github.com/user-attachments/assets/6a1e2f1d-b9c9-440a-829c-b5cfa8ff625d)
+
 
 
 
